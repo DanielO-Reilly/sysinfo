@@ -1,0 +1,6 @@
+name: Software_Engineering
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+prefix: C:\Users\danor\anaconda3\envs\Software_Engineering
