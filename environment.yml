@@ -3,4 +3,7 @@ channels:
   - defaults
 dependencies:
   - python=3.9
+  - numpy
+  - pandas
+  - jupyterlab
 prefix: C:\Users\danor\anaconda3\envs\Software_Engineering
